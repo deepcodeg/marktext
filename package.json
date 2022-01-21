@@ -49,7 +49,7 @@
     "dompurify": "^2.3.4",
     "dragula": "^3.7.3",
     "electron-is-accelerator": "^0.2.0",
-    "electron-log": "^4.4.3",
+    "electron-log": "^4.4.4",
     "electron-store": "^8.0.1",
     "electron-window-state": "^5.0.3",
     "element-resize-detector": "^1.2.4",
