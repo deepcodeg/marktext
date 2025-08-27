@@ -42,7 +42,7 @@
     "axios": "^0.24.0",
     "ced": "^2.0.0",
     "chokidar": "^3.5.2",
-    "codemirror": "^5.65.0",
+    "codemirror": "^6.0.0",
     "command-exists": "^1.2.9",
     "dayjs": "^1.10.7",
     "dom-autoscroller": "^2.3.4",
